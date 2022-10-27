@@ -1,0 +1,8 @@
+name database:data_penduduk
+collection:penduduk
+------------------------------------------------------
+Nama kelompok:
+
+1. Muhammad Hafizh Putra Priyatna - 06.2020.1.07298
+2. Krisna Bagus Nugraha - 06.2020.1.07263
+3. Rafly Divanandra Rahmadhani - 06.2020.1.07320
